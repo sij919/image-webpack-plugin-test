@@ -30,7 +30,7 @@ module.exports = {
       },
       {
         test: /\.(png|jp(e*)g|svg|gif)$/,
-        use: ['file-loader?name=assets/[folder]/[name].[ext]'],
+        use: ['file-loader?name=[path][name].[ext]'],
       },
     ],
   },
