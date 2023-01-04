@@ -1,5 +1,5 @@
 <h1>이미지 최적화 플러그인 (image-webpack-plugin) 테스트</h1><br />
-- 설치 및 테스트 결과 확인 : https://www.notion.so/douzone-tes/8c347838a4ac409991cd280d88b5e1f1#4e618f8338f54618952fed5393695dd2<br /><br />
+- 설치 및 테스트 결과 확인 : https://www.notion.so/douzone-tes/8c347838a4ac409991cd280d88b5e1f1#a0a26bc4e367486dad73e92456697596<br /><br />
 - git 모듈 가져오기<br />
 1. vscode나 다른 Editor Tool(IntelliJ 등) 열기<br />
 2. 터미널 호출 후 입력 -> git clone https://github.com/sij919/image-webpack-plugin-test.git<br />
